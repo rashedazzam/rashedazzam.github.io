@@ -13,6 +13,8 @@ nav ul li a{
 
 main img {
     float: right;
+    height: 50px;
+    width: 50px;
 }
 
 main h1 {
